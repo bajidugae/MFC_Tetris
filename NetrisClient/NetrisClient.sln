@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NetrisClient", "NetrisClient\NetrisClient.vcxproj", "{A3DC369F-8172-490D-99D9-49E86859B3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DC369F-8172-490D-99D9-49E86859B3CF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A3DC369F-8172-490D-99D9-49E86859B3CF}.Debug|Win32.Build.0 = Debug|Win32
+		{A3DC369F-8172-490D-99D9-49E86859B3CF}.Release|Win32.ActiveCfg = Release|Win32
+		{A3DC369F-8172-490D-99D9-49E86859B3CF}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
